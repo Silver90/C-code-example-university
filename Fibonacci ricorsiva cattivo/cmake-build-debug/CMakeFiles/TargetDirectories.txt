@@ -1,0 +1,3 @@
+D:/Progetti/Fibonacci ricorsiva cattivo/cmake-build-debug/CMakeFiles/Fibonacci_ricorsiva_cattivo.dir
+D:/Progetti/Fibonacci ricorsiva cattivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Progetti/Fibonacci ricorsiva cattivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

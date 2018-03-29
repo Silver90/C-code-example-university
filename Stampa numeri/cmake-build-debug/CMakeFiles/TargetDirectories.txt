@@ -1,0 +1,3 @@
+D:/Stampa numeri/cmake-build-debug/CMakeFiles/Stampa_numeri.dir
+D:/Stampa numeri/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stampa numeri/cmake-build-debug/CMakeFiles/rebuild_cache.dir

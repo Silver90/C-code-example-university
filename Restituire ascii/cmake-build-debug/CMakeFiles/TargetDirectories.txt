@@ -1,0 +1,3 @@
+D:/Restituire ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Restituire ascii/cmake-build-debug/CMakeFiles/Restituire_ascii.dir
+D:/Restituire ascii/cmake-build-debug/CMakeFiles/edit_cache.dir

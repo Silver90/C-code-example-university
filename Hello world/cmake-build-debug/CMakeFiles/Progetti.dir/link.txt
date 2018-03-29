@@ -1,0 +1,3 @@
+"D:\Users\ignaz\AppData\Roaming\JetBrains\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Progetti.dir/objects.a
+D:\Mingw\bin\ar.exe cr CMakeFiles\Progetti.dir/objects.a @CMakeFiles\Progetti.dir\objects1.rsp
+D:\Mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Progetti.dir/objects.a -Wl,--no-whole-archive  -o Progetti.exe -Wl,--out-implib,libProgetti.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Progetti.dir\linklibs.rsp

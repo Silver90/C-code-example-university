@@ -1,0 +1,3 @@
+D:/Potenza e multiplo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Potenza e multiplo/cmake-build-debug/CMakeFiles/Potenza_e_multiplo.dir
+D:/Potenza e multiplo/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Stampa_voti.dir/objects.a
+D:\Mingw\bin\ar.exe cr CMakeFiles\Stampa_voti.dir/objects.a @CMakeFiles\Stampa_voti.dir\objects1.rsp
+D:\Mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Stampa_voti.dir/objects.a -Wl,--no-whole-archive  -o Stampa_voti.exe -Wl,--out-implib,libStampa_voti.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Stampa_voti.dir\linklibs.rsp

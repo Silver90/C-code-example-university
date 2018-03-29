@@ -1,0 +1,3 @@
+D:/Confronto stringa/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Confronto stringa/cmake-build-debug/CMakeFiles/Confronto_stringa.dir
+D:/Confronto stringa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

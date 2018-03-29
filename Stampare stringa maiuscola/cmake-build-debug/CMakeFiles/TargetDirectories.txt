@@ -1,0 +1,3 @@
+D:/Stampare stringa maiuscola/cmake-build-debug/CMakeFiles/Stampare_stringa_maiuscola.dir
+D:/Stampare stringa maiuscola/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stampare stringa maiuscola/cmake-build-debug/CMakeFiles/rebuild_cache.dir

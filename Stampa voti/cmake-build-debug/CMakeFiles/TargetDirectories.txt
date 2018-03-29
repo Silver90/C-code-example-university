@@ -1,0 +1,3 @@
+D:/Stampa voti/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stampa voti/cmake-build-debug/CMakeFiles/Stampa_voti.dir
+D:/Stampa voti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
